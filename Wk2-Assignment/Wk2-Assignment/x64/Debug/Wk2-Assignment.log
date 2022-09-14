@@ -1,0 +1,3 @@
+﻿  Wk2-Assignment.cpp
+C:\Users\david\OneDrive\Documents\LoneStar College\GameProgramming\Wk2_Assignment\Wk2-Assignment\Wk2-Assignment\Wk2-Assignment.cpp(32,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Wk2-Assignment.vcxproj -> C:\Users\david\OneDrive\Documents\LoneStar College\GameProgramming\Wk2_Assignment\Wk2-Assignment\x64\Debug\Wk2-Assignment.exe
